@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="default_title">Nowy kontakt</string>
+    <string name="default_description">przykładowy opis</string>
+    <string name="task_title">empty_title</string>
+    <string name="task_description">empty_description</string>
+    <string name="add_task">add contact</string>
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="item_selected_msg">123</string>
+    <string name="delete_dialog_tag" />
+    <string name="long_click_msg" />
+    <string name="delete_cancel_msg" />
+    <string name="retry_msg" />
+    <string name="delete_question">Czy chcesz usunąć kontakt</string>
+    <string name="dialog_confirm">Tak</string>
+    <string name="dialog_cancel">Nie</string>
+    <string name="task_name">Name</string>
+    <string name="task_surname">Surname</string>
+    <string name="task_phone_number">Phone number (9 digits)</string>
+    <string name="changecontact">Change contact</string>
+    <string name="change_sound">change sound</string>
+    <string name="task_birthday">Birthday</string>
+    <string name="default_name">Name</string>
+    <string name="default_surname">Surname</string>
+    <string name="default_birthday">01-01-1900</string>
+    <string name="default_phone_number">123456789</string>
+    <string name="call_question">Czy chcesz zadzwonic?</string>
+    <string name="call_dialog_tag" />
+    <string name="calling_msg">Calling</string>
+    <string name="deny_msg">Decline</string>
+    <string name="decline_msg">Call declined</string>
+    <string name="try_again_msg">Try again</string>
+    <string name="task_birthday_format">Birthday (DD/MM/YYYY)</string>
+</resources>
