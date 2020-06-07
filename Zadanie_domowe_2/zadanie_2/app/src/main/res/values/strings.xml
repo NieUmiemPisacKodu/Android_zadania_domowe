@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zadanie_2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+    <string name="clear_memory">CLEAR</string>
+    <string name="last_known_loc_msg">123</string>
+</resources>
