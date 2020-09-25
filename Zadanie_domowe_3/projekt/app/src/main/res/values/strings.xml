@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">project_ptm</string>
+    <string name="default_title">Nowy telefon</string>
+    <string name="default_description">przykładowy opis</string>
+    <string name="task_title">empty_title</string>
+    <string name="task_description">empty_description</string>
+    <string name="add_phone">add phone</string>
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+    </string-array>
+    <string name="item_selected_msg"/>
+    <string name="delete_dialog_tag" />
+    <string name="long_click_msg" />
+    <string name="delete_cancel_msg" />
+    <string name="retry_msg" />
+    <string name="delete_question">Czy chcesz usunąć telefon?</string>
+    <string name="dialog_confirm">Tak</string>
+    <string name="dialog_cancel">Nie</string>
+    <string name="Price">Price ($)</string>
+    <string name="Brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="Prod_date">Production date</string>
+    <string name="update_data">Update data</string>
+</resources>
